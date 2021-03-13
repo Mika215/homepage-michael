@@ -21,4 +21,4 @@ US-01  |As an owner I want my potential employers to know what my partners/colle
  US Number | User Story
 ------|---
 US-01  |As an owner I want more interactive web-page so that it can attract more traffic.Given animation touches.
-US-02|As an owner, I want that the navigation links at the footer would have a hover effect so that user can see which list item is selected for pressing.oGiven quick menu highlighted when it's pressed then the border or the background color should change so that user can understand.
+US-02|As an owner, I want that the navigation links at the footer would have a hover effect so that user can see which list item is selected for pressing.Given quick menu highlighted when it's pressed then the border or the background color should change so that user can understand.
