@@ -10,9 +10,8 @@ My main objective was to be able to fully understand Michael’s persona, and ba
 
 ## Interview summary
 
-Michael is a young 31-year-old man who has been living in Brussels for a few months now.
-His life motto is ”Life is too short, discover and enjoy it!”.  
-He has a professional experience in the cyber security domain.
+Michael is a young 31-year-old man who has been living in Belgium for 1 year now.   
+His life motto is: ”Life is too short, discover and enjoy it!”.  
 
 ## Michael’s professional goals
 
