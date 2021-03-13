@@ -1,6 +1,6 @@
 # Introduction
 ---
-For the UX design project I interviewed Michael.    
+For the UX design project I interviewed [Michael](https://github.com/Mika215).    
 My main objective was to be able to fully understand Michael’s persona, and based on that, create a homepage that would:
 
 * Explain his motivations behind this homepage creation;
