@@ -1,66 +1,46 @@
-# Interview Inggrit 
+# Introduction
+---
+For the UX design project I interviewed [Michael](https://github.com/Mika215).    
+My main objective was to be able to fully understand Michael’s persona, and based on that, create a homepage that would:
 
-As part of the **UX design** experiment project i had interviewed [Inggrit](https://github.com/inggritenovaleta) on Monday 01 March 2021. 
+* Explain his motivations behind this homepage creation;
+* Create a homepage that would satisfy his needs;
+* Give him the chance to interact and collaborate with users;
+* Present him as he would like to.
 
-The objective of the interview was to figure out: 
+## Interview summary
 
- * Why she needs to have a home page?
- * How she want to be represented?
- * Who she want to see her [home page](https://github.com/inggritenovaleta/homepage-inggritenovaleta)?
- * How her visitors can interact with the page?
+Michael is a young 31-year-old man who has been living in Belgium for 1 year now.   
+His life motto is: ”Life is too short, discover and enjoy it!”.  
 
-Hence, i have presented you below a paraphrased summary of the interview. 
+## Michael’s professional goals
 
------------------------------------------------------------------------------------------------------------
-**Life moto /philosophy**
+* His BIGGEST wish is to become a web development “MASTER”, he would like to specialize in HTML, CSS and JS.
+* He doesn't like math or statistics 😝
+* He says; ”I realize that this domain becomes more and more exploited!”
+* He also wants to invest his time and efforts to succeed the HackYourFuture course so as to establish a life-long, lasting project.
+* He is also interested in Social Impact:
+He would like to be a social entrepreneur and the motivation behind it’s super strong.
+He has a special bond with this job sector. He is so interested in the field development, evolution that he believes that doing this job can have a good impact on people's lives, therefore, he would be able to do his part as an individual.
 
- >  Je pense donc je suis !:dart:
+## Michael’s personality
 
-* **Her Professional desire** is to found her own business because she is so much passionate about **creativity**, **independence** (she wants to have herself as the only boss – doing what she loves to do the way she want to do) and **entrepreneurship**. 
+He’s curious; he loves innovation, especially in the artificial intelligence and machine learning field. He would like to evolve and maybe one day, be able to come up with an innovative idea that he could share with interested  parties.
 
-* She detest to be employed and guided inside a box as equal as she hates **mathematics** - *Me too* :astonished:
- 
-* She has a BA degree in *French literature* but she has never considered it as a profession. 
-  She rather love learning languages and she enrolled the curriculum for fan but at the same time because she had the desire to know about French culture and way of living. (influenced by her dad during her child hood)   
-  
-* She is currently enrolled for a Bachelor degree in **Marketing** at the [UCLL](https://www.ucll.be/). 
-* She want to have a professional carrier in the *Business and Marketing* domain but at the same time she wants also to acquire adequate 
-knowledge in Development in general and *UX design* in particular. 
-She has some experience in designing and she believes that she is gifted and good at it.
+My opinion on Micheal’s personality:
+(He didn't say it expressly but made me deduce it)  
 
- she thinks that there is high level of linkage between the two domains. 
- The characters that these two domains (marketing and UX design) share in common are creativity, flexibility and independence)
+He is:
 
-* Her motive behind joining the [HYF](https://github.com/HackYourFutureBelgium/class-13-14) training is because 
-She is more passionate about UX design (since “it has a deep link with her profession” - i.e Marketing)
-besides it is because the Development domain is a demanding sector with competitive advantages in making high revenues and way of living.
+* Brave;
+* Private person;
+* Courageous;
+* Patient;
+* Determined;
+* Committed person that knows what he wants and won't stop until achieving it.
 
- She has no back ground in coding.
+## Michael’s hobbies
 
-* **Hobbies**
- she is passionate about singing in particular and music at a large. 
- She has a family who embraces music as a family trend. Her family has been serving in a choir since her early childhood.
- she grew up playing piano and guitar. And still, she plays them as hobbies. 
-
-* **Personal characters**
- she is perfectionist, sociable but at the same time selective, she hates to be on the spotlight and usually prefers to stay at the back stage.
- However she is still capable of going public when there is a need.
- 
-* She is also environmentalist and has great concerns about it. She wants to contribute in protecting the environment.
-
-* Her biggest strength is that she is **committed** and her weakness is that she is **doubtful** :thinking:
-
-   > A balance between *hummer* and hardworking;        C r a z y   and committed person.
-
-**Observation** 
- She is self-expressive and well organised :woman_technologist: 
-
-
-*Foot note*:
-
-She wants to be presented as creative, independent, determined(committed), hardworking but at the same time easy going business woman(entrepreneur).
-She wants to be discovered by Business personalities and entities, creative artists & designers.
-
-The website should reflect her professional orientation (business woman) ambitions, personal characters, passions and hobbies.
-
-
+* He loves to travel, and he is planning to visit some new places as soon as the world’s situation gets better.
+* Keep himself informed and aware of the Cyber field evolution and discoveries.
+* Learn interesting things about new cultures and tourism.
