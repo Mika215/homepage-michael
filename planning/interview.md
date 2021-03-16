@@ -1,3 +1,5 @@
+
+![interview gif](https://github.com/Mika215/homepage-michael/blob/main/images/interview.gif)
 # Introduction
 ---
 For the UX design project I interviewed [Michael](https://github.com/Mika215).    
