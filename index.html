@@ -1,0 +1,84 @@
+<!--This is my first homepage i made with the help of different toutorials
+i tried to use the default boilerplate with some modifications to help me boost my SEO
+
+I have also set "prettier" as the default document formatter using "shift+Ctrl+p" and configure "format document" in the command plate
+I found it very usefull checking my index file using the "https://validator.w3.org/" markup validator.
+I should also use CSS validators for my css file.This is a good practice and efficient.
+it identifies common errors and bugs before you go far in coding-->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="keywords" content="HTML, CSS" />
+    <meta
+      name="description"
+      content="Michael Tesfay is the best fullstack developer - both frontend and backend developer; based in Belgium,Europe.He develops almost all sorts of software solutions and systems for all types of organisations and companies.So far he have acquired years of experience as a freelancer)"
+    />
+    <!--below i put a link to my css file so my html will inherit the style-->
+    <link rel="stylesheet" href="style.css" />
+    <title>Michael's Hompage</title>
+  </head>
+  <body>
+    <header>
+      <!--<img class="Logo" src="images/logo-codding.svg" alt="svg codding logo " />-->
+      <h1 class="Logo">MikaCodes .../ ></h1>
+      <nav>
+        <ul class="nav_links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about-me.html">About me</a></li>
+          <li><a href="portfolio.html">Portfolio</a></li>
+          <li><a href="blogs.html">Blogs</a></li>
+        </ul>
+      </nav>
+      <a class="cta" href="a"><button>Let's Get in touch</button></a>
+    </header>
+
+    <a href=""></a>
+    <img
+      src="images/connecting-dots.gif"
+      alt="website underconstruction image"
+      width="750"
+      height="580"
+    />
+    <!--Building my footer bar
+   the hyperlinks section can be simply doublicated by selecting the first one then Ctrl+shift+dawn arrow sign-->
+    <div class="footer-container">
+      <div class="footer">
+        <div class="footer-heading footer-1">
+          <h2>Social Media</h2>
+          <a href="https://github.com/Mika215">Git-Hub</a>
+          <a href="">LinkedIn</a>
+          <a href="https://hackyourfuturebe.slack.com/team/U01JZFW9XNC"
+            >Slack</a
+          >
+          <a href="#">Twitter</a>
+        </div>
+        <div class="footer-heading footer-2">
+          <h2>About Me</h2>
+          <a href="#">Vision</a>
+          <a href="#">Mission</a>
+          <a href="#">Values</a>
+        </div>
+        <div class="footer-heading footer-3">
+          <h2>Physical address</h2>
+          <a href="#">Street number</a>
+          <a href="#">Avenue</a>
+          <a href="#">Liège</a>
+          <a href="#">Belgium</a>
+        </div>
+        <div class="footer-email-form">
+          <h2>Join my News-letters</h2>
+          <input
+            type="email"
+            placeholder="Enter your email address"
+            id="footer-email"
+          />
+          <input type="Submit" value="Sign Up" id="footer-email-btn" />
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
